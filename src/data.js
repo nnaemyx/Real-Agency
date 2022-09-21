@@ -40,7 +40,7 @@ export const hero = {
 
 export const model = {
   image: <Model/>,  
-  heading: "Our Model",
+  heading: "Our Models",
   title: "ARAMIDE DOLE",
   subtitle:
     "Aramide Dole was born in Nigeria. She started her modelling career with Real Agency after one of our scouts discovered her in a slum in Makoko, Lagos Nigeria. She has worked with numerous brands, including Fendi, L’Oreal, New Look and others, Aramide's rise to fame has encouraged a lot of young girls who came from where she was born. In 2020 Aramide won the Model Award Africa as the Fast rising African Model of the year. She was also nominated as Flebandy Model of the year.",
@@ -52,18 +52,33 @@ export const real = {
   items: [
     {
       image: <Real1 />,
-      title: "",
-      subtitle: "",
+      title: "Alton Mason",
+      subtitle: "For Glambattista",
     },
     {
       image: <Real2 />,
-      title: "",
-      subtitle: "",
+      title: "Jourdan Dunn",
+      subtitle: "New York Fashion Week",
     },
     {
       image: <Real3 />,
-      title: "",
-      subtitle: "",
+      title: "Victor Ndigwe",
+      subtitle: "Paris Fashion Week",
     },
   ],
 };
+
+export const coaching = {
+  image: <Coaching />,
+  heading: "REAL MODELS COACHING",
+  subtitle: "Real coaching is exclusive for Real New Faces, but this time you can get and opportunity to learn from our professional coaches in 4 disciplines by winning a wildcard.What you need - A perfect body, the right look? No, you just have to be perfect in your own way. This is a no bias zone!You can check Become a model for the prerequisite.To learn more about this opportunity, click the button below.",
+  buttonModel: "Learn More",
+};
+
+export const brand = {
+  image1: <Brand1 />,
+  image2: <Brand2 />,
+  image3: <Brand3 />,
+  image4: <Brand4 />,
+  image5: <Brand5 />,
+}
